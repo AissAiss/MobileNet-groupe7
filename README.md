@@ -1,6 +1,6 @@
 # MobileNet-SSD-Sujet13
-Partage du groupe 7 projet IA 
-Ce projet est inspiré de 
+Partage du groupe 7 projet IA <br>
+Ce projet est inspiré de [Pensée Artificielle](https://penseeartificielle.fr/mobilenet-ssd-identifier-objets-camera-smartphone/)
 
 ## Contact 
 
