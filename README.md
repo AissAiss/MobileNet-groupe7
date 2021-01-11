@@ -172,7 +172,7 @@ Toujours avec votre environement activé, et dans le dossier ojet_detection vous
 (projetMB) D:\workspace\models\research\objet_detection>python test-video-example.py
 ```
 
-# Ebtrainer un modèle 
+# Entrainer un modèle 
 <a href="Entrainer"></a>
 
 Pour entrainer un model,
