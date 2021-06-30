@@ -12,7 +12,7 @@ Ce projet est inspiré de [Pensée Artificielle](https://penseeartificielle.fr/m
 ## Table des matières 
 
 <ul>
-	<li><a href="#Install">Installation</a>
+	<li><a href="#Installation">Installation</a>
         <ul>
             <li><a href="#creatoin">Création de l'environement</a></li>
             <li><a href="#paquets">Installation des paquets</a></li>
