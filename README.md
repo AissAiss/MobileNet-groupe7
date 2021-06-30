@@ -14,16 +14,16 @@ Ce projet est inspiré de [Pensée Artificielle](https://penseeartificielle.fr/m
 <ul>
 	<li><a href="#Install">Installation</a>
         <ul>
-            <li><a href="creatoin">Création de l'environement</a></li>
-            <li><a href="paquets">Installation des paquets</a></li>
-            <li><a href="tf">Tensorflow</a></li>
-            <li><a href="protoc">Protocol Buffer</a></li>
+            <li><a href="#creatoin">Création de l'environement</a></li>
+            <li><a href="#paquets">Installation des paquets</a></li>
+            <li><a href="#tf">Tensorflow</a></li>
+            <li><a href="#protoc">Protocol Buffer</a></li>
         </ul>
     </li>
     <li><a href="#Test">Tests</a></li>
         <ul>
-            <li><a href="jupyter">Test avec Jupyter Notebook</a></li>
-            <li><a href="video">Test avec une vidéo</a></li>
+            <li><a href="#jupyter">Test avec Jupyter Notebook</a></li>
+            <li><a href="#video">Test avec une vidéo</a></li>
         </ul>
     <li><a href='#Entrainer'>Entrainer un modèle</a></li>
     
