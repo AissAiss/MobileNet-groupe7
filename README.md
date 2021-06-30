@@ -38,7 +38,7 @@ Dans cette partie, nous allons voir les paquets à installer pour utiliser le pr
 Tout d'abord, dans ce projet nous utiliserons Anaconda, si il n'est pas installé sur votre machine, je vous invite à suivre cette vidéo pour installer [Anaconda](https://www.youtube.com/watch?v=jaw5FhWx2Bk&ab_channel=MachineLearnia) et à revenir ici pour suivre les prochaines étapes.
 
 ## Création de l'environnement 
-<a href='creatoin'></a>
+<a id='creatoin'></a>
 
 Une fois installé, ouvrez Anaconda Prompt puis créer un nouvel environement pour le projet. 
 
@@ -54,7 +54,7 @@ Une fois votre environement créé il vous faut l'activer.
 Votre environement est bien activé si son nom apparait entre paranthèse à gauche.
 
 ## Instalation des paquets nécessaires
-<a href='paquets'></a>
+<a id='paquets'></a>
 
 Une fois dans votre environement, il vous faudra installer les paquets suivants.
 
@@ -84,7 +84,7 @@ Mathplotlib permet de tracer des graphes et est utilisé par beaucoup d'autres l
 Opencv-python est une librairie d'analyse d'image. 
 
 ## Installation de Tensorflow et tensorflow-gpu
-<a href='tf'></a>
+<a id='tf'></a>
 
 L'installation de Tensorflow étant un peu plus complexe et ne se résume pas simplement à un pip install. En effet, nous avons besoin d'installer les deux librairies suivantes :  
 
@@ -104,7 +104,7 @@ Une fois ceci fait, vous êtes prêts à installer tensorflow :
 Votre environnement est désormais prêt pour la suite ! 
 
 ## Protocol buffer
-<a href='protoc'></a>
+<a id='protoc'></a>
 
 Pour ce projet, nous avons besoin de travailler avec des protocol buffers, c'est un format de sérialisation avec un langage de description d'interface développé par Google. Il va nous permettre de créer un modèle et de le partager avec n'importe quel langage assez facilement. 
 Je vous conseille de télécharger la version [3.4.0](https://github.com/google/protobuf/releases/download/v3.4.0/protoc-3.4.0-win32.zip)
@@ -151,7 +151,7 @@ Si toutes les commandes se sont bien passées, nous pouvons passer aux tests !
 Dans ce projet, il a deux moyens de tester votre environnement, la première avec Jupyter Notebook permet de visualiser le code. 
 
 ## Test avec Jupyter Notebook 
-<a href='jupyter'></a>
+<a id='jupyter'></a>
 
 Placez vous dans le dossier objet_detection, puis lancez Jupyter Notebook 
 
